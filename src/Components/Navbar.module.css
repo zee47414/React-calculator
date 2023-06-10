@@ -1,0 +1,11 @@
+.nav {
+    width: 90vw;
+    margin: auto;
+    background-color: goldenrod;
+    box-shadow: 0 0 3px 4px black;
+  }
+  .nav h1 {
+    text-shadow: 2px 2px black;
+    color: gray;
+    text-align: center;
+  }
